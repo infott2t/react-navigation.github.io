@@ -60,6 +60,7 @@ If you're on a Mac and developing for iOS, you need to install the pods (via [Co
 ```sh
 npx pod-install ios
 ```
+Android studio, editing...need or not now time. I don't know.
 
 To finalize installation of `react-native-gesture-handler`, add the following at the **top** (make sure it's at the top and there's nothing else before it) of your entry file, such as `index.js` or `App.js`:
 
